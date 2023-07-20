@@ -1,8 +1,8 @@
 ### Olá, Eu me chamo Victor Mikhael 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/whitwander)](https://github.com/whitwander)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/victor-pomaroli-a626b71a2/))]([https://www.linkedin.com/in/fagnerpsantos/](https://www.linkedin.com/in/victor-pomaroli-a626b71a2/))
- 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-pomaroli-a626b71a2/)]( https://www.linkedin.com/in/victor-pomaroli-a626b71a2/)
 
 <div>
 <a href="https://github.com/whitwander">
