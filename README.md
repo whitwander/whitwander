@@ -1,6 +1,6 @@
 ## Olá, Eu me chamo Victor Mikhael 👋
 
-### Estudando para ser desenvolvedor Full-stack!
+### Estudando para ser desenvolvedor!
 
 <div>
 <a href="https://github.com/whitwander">
