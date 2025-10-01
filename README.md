@@ -52,6 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/whitwander/whitwander/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/whitwander/whitwander/output/github-user-contribution.svg" alt="Snake animation" />
 
 ###
