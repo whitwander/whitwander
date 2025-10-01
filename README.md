@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/whitwander/whitwander/output/github-contribution-grid-snake.svg" />
+[<img alt="GitHub Snake" src="https://raw.githubusercontent.com/whitwander/whitwander/output/github-contribution-grid-snake.svg" />](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.gif)
 
 ###
